@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-log="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/640px-La_1_HD_TVE.png"group-title="Spain",La1 HD
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+
+#EXTINF:-1 tvg-log="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_2_HD.png/220px-La_2_HD.png"group-title="Spain",La 2 tve
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_720.m3u8
+
+#EXTINF:-1 tvg-log="https://es.vpnpro.com/wp-content/uploads/Antena-3-800x420-1.jpg"group-title="Spain",antena 3 HD
+https://atres-live.atresmedia.com/d2b4cc5d185ca1fc7bc0d78fca866c1b83927526_ES_1689604961_1689633701/h264/live/antena3/bitrate_1.m3u8
